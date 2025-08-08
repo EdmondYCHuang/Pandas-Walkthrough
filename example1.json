@@ -10,5 +10,17 @@
     "url": "https://dreamina.capcut.com/ai-tool/home",
     "tag": "image generation",
     "description": "dream@example.com"
+  },
+  {
+    "name": "kreadoai",
+    "url": "https://www.kreadoai.com/ai/login?redirect=/price",
+    "tag": "image generation",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "houroneai",
+    "url": "https://hourone.ai/#m",
+    "tag": "image generation",
+    "description": "dream@example.com"
   }
 ]
