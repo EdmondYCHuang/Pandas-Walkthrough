@@ -22,5 +22,12 @@
     "url": "https://hourone.ai/#m",
     "tag": "image generation",
     "description": "dream@example.com"
-  }
+  },
+  {
+    "name": "pikalabsai",
+    "url": "https://pikalabsai.org/",
+    "tag": "image generation",
+    "description": "dream@example.com"
+  },
+  
 ]
