@@ -1,23 +1,14 @@
 [
   {
-    "id": 1,
-    "name": "John Doe",
-    "email": "john@example.com",
-    "age": 30,
-    "city": "New York"
+    "name": "Heygen",
+    "url": "https://labs.heygen.com/guest/interactive-avatar?gad_campaignid=22820675748&gad_source=1&gbraid=0AAAAABiJW6YyVqzd-69UmJsiJUnzBn9pL&gclid=CjwKCAjwwNbEBhBpEiwAFYLtGBiZq1Di6rU4-yUoVBlCn4fu7TjzNAB_3sRsaa3EAdpz6DIsrZgnyRoC-UQQAvD_BwE&tab=demo&utm_campaign=22820672043&utm_source=GPM",
+    "tag": "ai anchor",
+    "description": "john@example.com"
   },
   {
-    "id": 2,
-    "name": "Jane Smith",
-    "email": "jane@example.com",
-    "age": 25,
-    "city": "Los Angeles"
-  },
-  {
-    "id": 3,
-    "name": "Bob Johnson",
-    "email": "bob@example.com",
-    "age": 35,
-    "city": "Chicago"
+    "name": "Dreamina",
+    "url": "https://dreamina.capcut.com/ai-tool/home",
+    "tag": "image generation",
+    "description": "dream@example.com"
   }
 ]
