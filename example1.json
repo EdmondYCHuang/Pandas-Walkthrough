@@ -47,6 +47,18 @@
     "tag": "移除浮水印",
     "description": "dream@example.com"
   },
+  {
+    "name": "elevenLabs",
+    "url": "https://elevenlabs.io/app/speech-synthesis/text-to-speech",
+    "tag": "文字轉語音",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "neural.love",
+    "url": "https://neural.love/image-to-image",
+    "tag": "圖片風格轉換",
+    "description": "dream@example.com"
+  },
 
 
   
