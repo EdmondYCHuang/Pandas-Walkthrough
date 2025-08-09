@@ -29,5 +29,26 @@
     "tag": "image generation",
     "description": "dream@example.com"
   },
+  {
+    "name": "myedit",
+    "url": "https://myedit.online/tw/create?type=image",
+    "tag": "人物移除",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "vheer",
+    "url": "https://vheer.com/app/image-style-transfer",
+    "tag": "圖片風格轉換",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "dewatermark",
+    "url": "https://dewatermark.ai/upload",
+    "tag": "移除浮水印",
+    "description": "dream@example.com"
+  },
+
+
+  
   
 ]
