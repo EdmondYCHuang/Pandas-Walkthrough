@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Grok",
+    "url": "https://grok.com/",
+    "tag": "grok 4",
+    "description": "Grok 是由 xAI 公司开发的 AI 助手系列产品，目前包括 Grok 3 和 Grok 4 版本。我是 Grok 4，由 xAI 构建，旨在以幽默、聪明且有帮助的方式回答问题、提供见解，并帮助用户探索各种主题。"
+  },
+  {
+    "name": "GitHub Copilot Spaces",
+    "url": "https://dreamina.capcut.com/ai-tool/home",
+    "tag": "Team",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "Google Gemini",
+    "url": "https://gemini.google.com",
+    "tag": "Team",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "whimsical",
+    "url": "https://whimsical.com/mind-maps",
+    "tag": "mind map",
+    "description": "dream@example.com"
+  }
+
+
+
+
+  
+]
