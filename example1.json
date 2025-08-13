@@ -59,8 +59,30 @@
     "tag": "圖片風格轉換",
     "description": "dream@example.com"
   },
+  {
+    "name": "invideo",
+    "url": "https://invideo.io/",
+    "tag": "影片生成",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "noteGPT",
+    "url": "https://notegpt.io/youtube-video-summarizer",
+    "tag": "youtube字幕轉出",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "domoAI",
+    "url": "https://www.domoai.app/zh-Hant/home",
+    "tag": "影片生成",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "raphael AI",
+    "url": "https://raphael.app/",
+    "tag": "圖片生成",
+    "description": "dream@example.com"
+  }
 
-
-  
   
 ]
