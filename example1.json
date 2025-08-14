@@ -82,7 +82,55 @@
     "url": "https://raphael.app/",
     "tag": "圖片生成",
     "description": "dream@example.com"
-  }
+  },
+  {
+    "name": "audiomatic",
+    "url": "https://audiomatic.io/pricing",
+    "tag": "音樂生成",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT?tab=readme-ov-file",
+    "tag": "AI 代理人",
+    "description": "dream@example.com"
+  },
+  {
+    "name": "bing",
+    "url": "https://www.bing.com/inspire?FORM=IRPFED",
+    "tag": "圖片生成",
+    "description": "適合產生現實風格的圖片"
+  },
+  {
+    "name": "piclumen",
+    "url": "https://piclumen.com/app/community/explore",
+    "tag": "圖片生成",
+    "description": "適合產生動漫風格的圖片"
+  },
+  {
+    "name": "firecrawl",
+    "url": "https://github.com/mendableai/firecrawl",
+    "tag": "爬蟲",
+    "description": "網站爬蟲"
+  },
+  {
+    "name": "海螺hailuoai",
+    "url": "https://hailuoai.video/",
+    "tag": "影片生成",
+    "description": "影片生成"
+  },
+  {
+    "name": "jitter影片常見素材",
+    "url": "https://jitter.video/templates/websites/",
+    "tag": "影片生成",
+    "description": "影片常見素材"
+  },
+  {
+    "name": "genspark",
+    "url": "https://www.genspark.ai/?id=fe920295-8ac6-4c0b-853b-1f1861dbd72d",
+    "tag": "AI代理人",
+    "description": "AI代理人"
+  },
 
   
 ]
